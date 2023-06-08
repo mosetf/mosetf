@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mosetf
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning ...Information Technology 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning computer science 
+- 💞️ I’m looking to collaborate on any python project 
 - 📫 How to reach me ...
 
 <!---
