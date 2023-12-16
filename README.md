@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @mosetf
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate 😐 
-- 📫 How to reach me ...
-- [![trophy](https://github-profile-trophy.vercel.app/mosetfryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-- [![trophy](https://github-profile-trophy.vercel.app/mosetfryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimosetfanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- 👋 Hi there😊, I’m stan
+- 💞️ I’m looking to collaborate on anything fun 😁
+- 📫 How to reach me :www.linkedin.com/in/mosesabwova
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosetf)](https://github.com/mosetf/github-readme-stats)
 - 
 
 <!---
