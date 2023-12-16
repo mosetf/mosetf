@@ -1,7 +1,7 @@
 - 👋 Hi there😊, I’m stan
 - 💞️ I’m looking to collaborate on anything fun 😁
 - 📫 How to reach me :www.linkedin.com/in/mosesabwova
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mosetf=mosetf&theme=blue_navy&show_icons=true)
+- ![stan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosetf&theme=blue_navy&show_icons=true)
 - 
 
 <!---
