@@ -2,7 +2,7 @@ Hi there, 👋 I'm stan
 
 💞️ I’m looking to collaborate on anything fun 😁
 
-📫 How to reach me :www.linkedin.com/in/mosesabwova
+📫 How to reach me :stanlym315@gmail.com
 
 
 📊 GitHub Stats:
