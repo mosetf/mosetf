@@ -1,6 +1,6 @@
-Hi there, 👋 I'm stan
+Hi there, 👋 I'm stan, a software engineering student
 
-I’m looking to collaborate on anything fun 😁
+I’m looking to collaborate on node.js and flask projects
 
 📫 How to reach me :stanlym315@gmail.com
 
