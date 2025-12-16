@@ -1,6 +1,6 @@
-Hey there, I’m Stan. I like building Django backends, designing clean database schemas, and using data to solve problems that exist outside tutorials. On tougher days, I consider switching to farming.
+Hey there, I’m Stan. I like building Django backends, designing clean database schemas and using data to solve problems that exist outside tutorials. On tougher days, I consider switching to farming.
 
-I specialize in Python, Django, and relational databases, with hands-on experience designing RESTful APIs, implementing JWT authentication with token rotation and blacklisting, and enforcing role-based access control. I’m also exploring machine learning and data engineering, and I’m currently building an AI-powered crop yield prediction system to apply these skills in practice.
+I specialize in Python, Django framework and relational databases, with hands-on experience designing RESTful APIs, implementing JWT authentication with token rotation and blacklisting, and enforcing role-based access control. I’m also exploring machine learning and data engineering, and I’m currently building an AI-powered crop yield prediction system to apply these skills in practice.
 
 **Core Expertise**
 - **Backend**: Django, Django REST Framework, custom user models, middleware, API security
@@ -20,12 +20,16 @@ I specialize in Python, Django, and relational databases, with hands-on experien
 **Get in touch**
 Email: [stanlym315@gmail.com](mailto:stanlym315@gmail.com)
 
-I enjoy clean code, thoughtful database schemas, and experimenting with data.
-
 ---
 
 **GitHub Stats**
-![Stan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosetf&theme=blue_navy&show_icons=true)
+
+![Stan's GitHub stats](
+https://github-readme-stats.vercel.app/api?username=mosetf&theme=blue_navy&show_icons=true
+)
 
 **GitHub Trophies**
-[![Stan's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mosetf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![ stan's trophy](
+https://github-profile-trophy.vercel.app/?username=mosetf&theme=onedark  )](https://github.com/mosetf/github-profile-trophy  
+)
