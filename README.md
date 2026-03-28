@@ -21,15 +21,3 @@ I specialize in Python, Django framework and relational databases, with hands-on
 Email: [stanlym315@gmail.com](mailto:stanlym315@gmail.com)
 
 ---
-
-**GitHub Stats**
-
-![Stan's GitHub stats](
-https://github-readme-stats.vercel.app/api?username=mosetf&theme=blue_navy&show_icons=true
-)
-
-**GitHub Trophies**
-
-[![ stan's trophy](
-https://github-profile-trophy.vercel.app/?username=mosetf&theme=onedark  )](https://github.com/mosetf/github-profile-trophy  
-)
