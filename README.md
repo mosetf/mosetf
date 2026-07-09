@@ -19,15 +19,15 @@ Security beyond `@login_required`. JWT rotation with blacklisting. Role-based ac
 
 #### Stack
 
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-1a1a1a?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-1a1a1a?style=flat-square&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-1a1a1a?style=flat-square&logo=websocket&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-1a1a1a?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF7F50?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-FF7F50?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF7F50?style=flat-square&logo=postgresql&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-FF7F50?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF7F50?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF7F50?style=flat-square&logo=docker&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-FF7F50?style=flat-square&logo=websocket&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-FF7F50?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-FF7F50?style=flat-square&logo=next.js&logoColor=white)
 
 #### What I'm learning
 
