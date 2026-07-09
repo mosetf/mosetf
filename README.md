@@ -1,23 +1,38 @@
-Hey there, I’m Stan. I like building Django backends, designing clean database schemas and using data to solve problems that exist outside tutorials. On tougher days, I consider switching to farming.
-
-I specialize in Python, Django framework and relational databases, with hands-on experience designing RESTful APIs, implementing JWT authentication with token rotation and blacklisting, and enforcing role-based access control. I’m also exploring machine learning and data engineering, and I’m currently building an AI-powered crop yield prediction system to apply these skills in practice.
-
-**Core Expertise**
-- **Backend**: Django, Django REST Framework, custom user models, middleware, API security
-- **Databases**: PostgreSQL, MySQL, data modeling, query optimization, migrations
-- **Practices**: Clean architecture, modular project structure, Git, RESTful design
-
-**Currently Exploring**
-- Machine learning workflows, from data preparation to model evaluation
-- Building and deploying data pipelines
-- Integrating predictive models into Django applications
-
-**Open to collaboration on**
-- Django API development and backend system design
-- Data-intensive applications with well-structured databases
-- Projects that combine analytics, automation, and real-world problem solving
-
-**Get in touch**
-Email: [stanlym315@gmail.com](mailto:stanlym315@gmail.com)
+### Moses Abwova
+Backend engineer. [Portfolio](https://abwova-portfolio.vercel.app) · Nairobi, Kenya
 
 ---
+
+#### What I do
+
+I build Django backends for real usage, not demos. The difference matters when your API handles traffic from people who have no idea what Django is and don't need to.
+
+Most of my actual work lives in the things that are easy to skip: token rotation that actually invalidates, RBAC that doesn't become middleware spaghetti, and migrations you can run on a Thursday without holding your breath.
+
+#### What I'm good at
+
+Django past the tutorial stage. Custom user models, middleware chains, signals. The parts that tutorials gloss over because explaining them cleanly is hard.
+
+Databases. I probably spend more time on schema design than is normal. Foreign key strategies, when to denormalize, whether to index now or wait. A good schema makes the application layer simpler. A bad one means every new feature starts with a migration argument.
+
+Security beyond `@login_required`. JWT rotation with blacklisting. Role-based access that holds up past three or four roles. APIs where secure is the default.
+
+#### Stack
+
+`Python` `Django` `PostgreSQL` `Celery` `Redis` `Docker` `WebSockets` `React Native` `Next.js`
+
+#### What I'm learning
+
+CropAI, a crop yield prediction system, is live: XGBoost for prediction, a LoRA fine-tuned Qwen model with FAISS retrieval for recommendations, deployed on Azure. Shipping it forced me to figure out what actually happens when you embed a model in a Django app.
+
+The model itself was the easy part. Data pipelines, versioning, inference latency. And handling the case where the model is wrong and the user needs to know that. That's the part I'm still working through.
+
+#### Working with me
+
+I argue about schemas before writing application code. Edge cases get tested because I've been burned. And I'd rather ship something simple that works than something clever that might not. The goal is code the next person can read without a walkthrough.
+
+---
+
+#### Get in touch
+
+[stanlym315@gmail.com](mailto:stanlym315@gmail.com)
